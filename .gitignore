@@ -1,0 +1,14 @@
+# Operating System & IDE
+.DS_Store
+.vscode/
+
+# Academic reports, documents, and exported HTML/PDFs
+*.pdf
+*.docx
+*.doc
+*.html
+
+# Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
